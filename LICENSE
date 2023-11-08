@@ -1,7 +1,8 @@
-body {
- background-color: aqua;
- text-aling:center;
- }
+<body> 
+{background-color: greey;>
 
- h1{
+{text-aling:center};
+
+ h1{ ...
+
   color:blueviolet;
